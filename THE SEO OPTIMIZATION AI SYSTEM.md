@@ -18,4 +18,8 @@
 - Web Data Scraping $\rightarrow$ Data preparation
 - Cloud Database for continous update
 - Tags suggestion $\rightarrow$ Classification problem $\rightarrow$ RNN
-- 
+
+1.1 Display all data about competitors
+1.2 suggest (clustering of SEO optimized words) + edit + modify content + code
+1.3 plagirism checking
+
